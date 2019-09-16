@@ -9,3 +9,6 @@ Please see the 3 notebooks for complete reproducibility of results in the manusc
 3. The "conf matrices" notebook creates the supp info figures
 
 The data and models folders contain all the models and some raw result csvs used in the paper. If desired, you could use the full ~20 million sequences in the bz2 archive with the pre-trained models to investigate accuracy.
+
+If github is not displaying the notebook correctly, you can paste the link and preview without downloading at:
+https://nbviewer.jupyter.org
